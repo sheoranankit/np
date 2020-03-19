@@ -1,0 +1,2 @@
+wget https://canvasjs.com/fdm/samples/jquery-canvasjs-chart-samples
+/var/www/html/index.html
